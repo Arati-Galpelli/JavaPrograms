@@ -4,6 +4,6 @@ public class HelloWorld {
     }
     static void display()
     {
-        System.out.printf("HelloWorld...");
-    }
+        System.out.println("HelloWorld...");
+    };
 }
